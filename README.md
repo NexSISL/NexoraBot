@@ -1,9 +1,12 @@
-<h1 align="center">🌌 Nexora</h1>
-<p align="center">
+<div align="center">
+<h1>🌌 Nexora</h1>
+  
+![NexoraNewVerBanner](https://cdn.nexorabot.xyz/nexora/img/NexoraGamerCat_Banner.png)
+<p>
   Un bot avanzado, modular y estable para Discord — moderación, tickets, sorteos y más.
 </p>
+</div>
 
----
 
 ## ✨ ¿Qué es Nexora?
 
@@ -12,7 +15,6 @@ Pensado para ser **modular, estable y escalable**, Nexora se adapta tanto a comu
 
 Su objetivo es combinar elegancia, rendimiento y facilidad de uso en una sola herramienta confiable.
 
----
 
 ## ⚙️ Características Principales
 
@@ -26,7 +28,6 @@ Un set completo de herramientas para mantener la seguridad y el orden:
 - Mute / Unmute  
 - Nuke (reinicio total de un canal)
 
----
 
 ### 🎫 Sistema de Tickets Profesional
 Totalmente modular y configurable:
@@ -37,7 +38,6 @@ Totalmente modular y configurable:
 - Eliminación segura del ticket  
 - Configuración flexible por servidor
 
----
 
 ### 🎉 Sorteos Avanzados
 Un sistema completo y robusto:
@@ -47,12 +47,10 @@ Un sistema completo y robusto:
 - Persistencia temporal (datos eliminados tras 30 días)  
 - Integración con MySQL  
 
----
 
 ### 👋 Bienvenida y Despedida
 Mensajes personalizables que se envían automáticamente al unirse o salir un usuario.
 
----
 
 ### 🚀 Notificaciones de Boost
 Nexora detecta boosts del servidor y notifica:
@@ -61,12 +59,10 @@ Nexora detecta boosts del servidor y notifica:
 
 Perfecto para agradecer a los boosters.
 
----
 
 ### 🎵 Música (Próximamente)
 Sistema de música estable, con colas, filtros y controles avanzados.
 
----
 
 ### 📜 Sistema de Logs (Próximamente)
 Registros centralizados de:
@@ -74,7 +70,6 @@ Registros centralizados de:
 - Acciones de moderación  
 - Cambios importantes en el servidor  
 
----
 
 ## 🛠️ Tecnologías y Arquitectura
 
@@ -85,8 +80,7 @@ Registros centralizados de:
 - Arquitectura modular y escalable  
 - Diseñado para correr en decenas o cientos de servidores
 
----
-
+ 
 ## 🔒 Privacidad y Seguridad
 
 Nexora únicamente almacena la información mínima necesaria:
@@ -99,14 +93,12 @@ Nexora únicamente almacena la información mínima necesaria:
 👉 Los transcripts no se guardan fuera de Discord.  
 👉 No se usa información para entrenamiento de IA.
 
----
 
 ## 🌠 Visión del Proyecto
 
 Convertir a Nexora en un asistente **potente, confiable y personalizable**, enfocado en ofrecer herramientas profesionales para comunidades de todos los tamaños.  
 Nexora busca ser una solución todo-en-uno que realmente **potencie** tu servidor.
 
----
 
 <p align="center">
   Hecho con ❤️ por Hall127
